@@ -1,5 +1,5 @@
 {
-  "limitCount": 1,
+  "limitCount": 15,
   "memberLimit": 10,
   "groupLimit": 30,
   "prefix": "#",
